@@ -1,0 +1,30 @@
+[submodule "xi-core"]
+	path = xi-core
+	url = https://github.com/xiproject/xi-core.git
+[submodule "xal-javascript"]
+	path = xal-javascript
+	url = https://github.com/xiproject/xal-javascript.git
+[submodule "agents/speak"]
+	path = agents/speak
+	url = https://github.com/xiproject/speak
+[submodule "agents/presence"]
+	path = agents/presence
+	url = https://github.com/xiproject/presence
+[submodule "agents/gmail"]
+	path = agents/gmail
+	url = https://github.com/xiproject/gmail
+[submodule "agents/wolfram"]
+	path = agents/wolfram
+	url = https://github.com/xiproject/wolfram
+[submodule "agents/cli"]
+	path = agents/cli
+	url = https://github.com/xiproject/cli
+[submodule "agents/chrome-stt"]
+	path = agents/chrome-stt
+	url = https://github.com/xiproject/chrome-stt
+[submodule "agents/greet"]
+	path = agents/greet
+	url = https://github.com/xiproject/greet
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/xiproject/scripts
