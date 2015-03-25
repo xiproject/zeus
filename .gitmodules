@@ -28,3 +28,6 @@
 [submodule "scripts"]
 	path = scripts
 	url = https://github.com/xiproject/scripts
+[submodule "agents/music"]
+	path = agents/music
+	url = https://github.com/xiproject/music
