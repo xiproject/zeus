@@ -1,0 +1,21 @@
+#################################################
+#                                               #
+# Agent configuration file.                     #
+#                                               #
+# Specify each agent to be run on a new line.   #
+#                                               #
+# Agents will be run in the order listed.       #
+#                                               #
+# Whitespace and lines beginning with a '#'     #
+# will be ignored.                              #
+#                                               #
+#################################################
+
+presence
+speak
+gmail
+chrome-stt
+wolfram
+reminder
+music
+greet
