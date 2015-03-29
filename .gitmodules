@@ -31,3 +31,6 @@
 [submodule "agents/music"]
 	path = agents/music
 	url = https://github.com/xiproject/music
+[submodule "agents/reminder"]
+	path = agents/reminder
+	url = https://github.com/xiproject/reminder
