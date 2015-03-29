@@ -20,7 +20,11 @@ h1, h2, h3, h4, h5, h6 {
 /* Paragraph & Typographic */
 p {
     line-height: 28px;
-    margin-bottom: 25px;
+}
+
+.fa.icon {
+    font-size: 8em;
+    color: #002544;
 }
 
 .centered {
@@ -106,6 +110,7 @@ a:after {
 .intro {
 	padding-top: 50px;
 	border-top: #bdc3c7 solid 5px;
+        padding-bottom: 50px;
 }
 
 #features {
